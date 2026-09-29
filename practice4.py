@@ -15,8 +15,8 @@ headcount_total = 0
 separations_total = 0
 
 
-def turnoverRate(separations,headcount):
-  return round((separations/headcount) * 100, 2) 
+def turnoverRate(seps,count):
+  return round((seps/count) * 100, 2) 
 
 def getStatus(rate, high=20, watch=10):
     if rate >= high:
