@@ -1,0 +1,5 @@
+-----Data Issues-----
+3 rows skipped
+MSIS Homework Grind : could not convert string to float: ''
+Data Cleaning Live : invalid literal for int() with base 10: 'n/a'
+Lamar Study Hall : could not convert string to float: '$12.50'
